@@ -15,3 +15,13 @@ Der Download sollte automatisch starten.
 
 Ich wünsche viel erfolg beim lernen!  
 Bin offen für Fragen, Wünsche und Seelenprobleme.
+
+# Achtung ⚠️
+Ich habe ein paar der Programme in Visual Studio Code geschrieben, was dazu führt, dass es schwieriger ist die Programme in Visual Studio zu compilieren und laufen zu lassen.  
+
+Entweder ihr schaut die Programme nur an, oder Ihr probiert folgendes:
+1. Öffne ein neues Visual Studio C++ Projekt
+2. Erstelle die Dateien im Projekt neu **mit den selben Dateinamen**
+3. Kopiere den Code in die jeweilige Datei
+4. Eventuell müsst ihr die `#include "[...]"` Pfade anpassen
+
